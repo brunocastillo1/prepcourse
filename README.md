@@ -1,2 +1,2 @@
 # prepcourse
-Este es un repositorio del modulo 2 del prepcouse de heny
+Este es un repositorio del modulo 2 del prepcouse de henry
